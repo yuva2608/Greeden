@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 Greeden – Plant Selling Website
 
 Greeden is a plant-selling website developed using **HTML and Tailwind CSS**. It features a clean, modern, and nature-inspired design that showcases plants and provides a simple, user-friendly browsing experience.
@@ -46,3 +47,6 @@ This project is created for educational and portfolio purposes.
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
+=======
+# Greeden
+>>>>>>> ad6d29789192c60182e0bc93f8edd136d862af36
